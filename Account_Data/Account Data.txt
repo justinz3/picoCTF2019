@@ -1,0 +1,31 @@
+{
+  "feedback": [],
+  "submissions": [],
+  "user": {
+    "admin": false,
+    "completed_minigames": [],
+    "country": "US",
+    "demo": {
+      "age": "13-17",
+      "grade": "12",
+      "parentemail": "qinyingg@yahoo.com",
+      "referrer": "teacher",
+      "residencecountry": "US",
+      "schoolcountry": "US",
+      "zipcode": "01810"
+    },
+    "disabled": false,
+    "email": "justinzhujz@gmail.com",
+    "extdata": {},
+    "firstname": "",
+    "lastname": "",
+    "teacher": false,
+    "tid": "523604b214ca4f2d9d745406ddb46de4",
+    "tokens": 0,
+    "uid": "5dd38fad576c43cda0ab7fff7731d435",
+    "unlocked_walkthroughs": [],
+    "username": "onthemove2",
+    "usertype": "student",
+    "verified": true
+  }
+}
